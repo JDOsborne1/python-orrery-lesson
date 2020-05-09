@@ -2,7 +2,7 @@
 
 This folder contains the tutorial files, they are in .ipynb format which is the way that the common jupyter notebooks are saved. They are numbered in the order that they should be completed in and they should have descriptive titles to help you navigate back to them in future for reference.
 
-## Descritions
+## Descriptions
 
 01-Coordinates_and_Vectors.ipynb - This notebook will take you through the basics of the cartesian co-ordinates system, and the way we can use vectors to represent positions in space.
 
