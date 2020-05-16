@@ -6,13 +6,11 @@ Educational Process covering the creation of an Orrery in python, and the underl
 This tutorial will cover multiple topics, with the ultimate goal of producing a complete and customisable Orrery simulation in python.
 
 We will cover:
-1. Co-ordinate
-1. Vectors
+1. Co-ordinates and Vectors
+1. Python Structures and Iterators
 1. Velocity & Acceleration
 1. Differentiation
 1. Newtonian Gravity
-1. Python structures
-1. Python Iterators
 1. Vpython simulation
 
 
@@ -49,4 +47,4 @@ This should minimise your mistakes, and make it as easy as possible to fix them 
 
 ## FAQs
 
-None at present, the course has not yet been written, let alone trialled. 
+None at present, the course has not yet been written, let alone trialled.
